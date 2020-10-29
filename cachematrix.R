@@ -1,3 +1,5 @@
+# Programming Assignment #2 by CP
+
 # Code to cache the inverse of a squared matrix
 # Please copy the entire contents and paste them into R to run and see how it works
 # Please press the "Enter" key additional times to see the additional results of the tests at the end
